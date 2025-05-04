@@ -49,3 +49,12 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/DanbiChuang/website-0503.git
 git push -u origin main
+
+
+git config --global user.name "konyu0503"
+git config --global user.email "danbichuang@gmail.com"
+
+更新時打的指令
+git add .
+git commit -m "first commit"
+git push -u origin main

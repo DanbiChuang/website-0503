@@ -51,7 +51,7 @@ export default function Navbar() {
                             href="/admin"
                             className="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-md transition-colors"
                         >
-                            管理後台
+                            後台
                         </Link>
                     )}
                     {user ? (
